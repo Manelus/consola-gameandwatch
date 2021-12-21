@@ -1,0 +1,143 @@
+body{
+    background-color: grey;
+}
+.box{
+    background-color: goldenrod;
+    width: 600px;
+    height:315px;
+    position: relative;
+    margin-top: 15%;
+    left: 30%;
+    border: solid 15px darkred;
+}
+.screen{
+    width: 400px;
+    height: 250px;
+    position: relative;
+    left: 90px;
+    bottom: 65px;
+    border: solid 8px darkred;
+    
+}
+.button-b{
+    position: relative;
+    background-color: black;
+    color: grey;
+    border: solid 3px darkred;
+    border-radius: 50%;
+    left: 87%;
+    bottom: 140px;
+    block-size: 30px;
+    width: 5%;
+}
+.button-a{
+    position: relative;
+    background-color: black;
+    color: grey;
+    border: solid 3px darkred;
+    border-radius: 50%;
+    left: 88%;
+    bottom: 140px;
+    block-size: 30px;
+    width: 5%;
+}
+.pad-container{
+    position: relative;
+    left: 8%;
+    top: 125px;
+}
+.top{
+    position: relative;
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    bottom: -60px;
+
+}
+.bottom{
+    position: relative;
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    bottom: -45px;
+}
+.left{
+    position: relative;
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    bottom: -60px;
+    right: 15px;
+}
+
+.right{
+    position: relative;
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    bottom: -45px;
+    left: 15px;
+}
+
+.center{
+    position: relative;
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    bottom: -15px;
+}
+.game{
+    position: relative;
+    width: 400px;
+    height: 250px;
+    bottom: 323px;
+    left: 98px;
+}
+.buttons{
+    position: relative;
+    bottom: 240px;
+}
+.nintendo{
+    position: relative;
+    width: 210px;
+    height: 140px;
+    left: 18%;
+    bottom: 409px;
+}
+.start{
+    position: relative;
+    background-color: grey;
+    border: solid 3px darkred;
+    border-radius: 35%;
+    width: 25px;
+    left: 528px;
+    bottom: 700px;
+    block-size: 15px;
+}
+.select{
+    position: relative;
+    background-color: grey;
+    border: solid 3px darkred;
+    border-radius: 35%;
+    width: 25px;
+    left: 499px;
+    bottom: 680px;
+    block-size: 15px;
+}
+.time{
+    position: relative;
+    background-color: grey;
+    border: solid 3px darkred;
+    border-radius: 35%;
+    width: 25px;
+    left: 470px;
+    bottom: 660px;
+    block-size: 15px;
+}
+.logo{
+    position: relative;
+    width: 190px;
+    height: 150px;
+    bottom: 615px;
+    right: 350px;
+}
