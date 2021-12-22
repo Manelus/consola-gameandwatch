@@ -51,7 +51,8 @@ body{
     height: 15px;
     width: 15px;
     background-color: black;
-    bottom: -60px;
+    bottom: -80px;
+    right: 5px;
 
 }
 .bottom{
@@ -59,15 +60,16 @@ body{
     height: 15px;
     width: 15px;
     background-color: black;
-    bottom: -45px;
+    bottom: -65px;
+    right: 5px;
 }
 .left{
     position: relative;
     height: 15px;
     width: 15px;
     background-color: black;
-    bottom: -60px;
-    right: 15px;
+    bottom: -80px;
+    right: 20px;
 }
 
 .right{
@@ -75,8 +77,8 @@ body{
     height: 15px;
     width: 15px;
     background-color: black;
-    bottom: -45px;
-    left: 15px;
+    bottom: -65px;
+    left: 10px;
 }
 
 .center{
@@ -84,7 +86,8 @@ body{
     height: 15px;
     width: 15px;
     background-color: black;
-    bottom: -15px;
+    bottom: -35px;
+    right: 5px;
 }
 .game{
     position: relative;
