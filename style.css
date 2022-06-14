@@ -8,7 +8,8 @@ body{
     position: relative;
     margin-top: 15%;
     left: 30%;
-    border: solid 15px darkred;
+    border: solid 4px darkred(99, 7, 0);
+    box-shadow: 10px 10px 15px 15px rgb(82, 1, 1);
 }
 .screen{
     width: 400px;
@@ -17,6 +18,7 @@ body{
     left: 90px;
     bottom: 65px;
     border: solid 8px darkred;
+    box-shadow: 2.5px 2.5px 2.5px 5px rgb(82, 1, 1);
     
 }
 .button-b{
@@ -29,6 +31,7 @@ body{
     bottom: 140px;
     block-size: 30px;
     width: 5%;
+    box-shadow: 2.5px 5px rgb(82, 1, 1);
 }
 .button-a{
     position: relative;
@@ -40,6 +43,7 @@ body{
     bottom: 140px;
     block-size: 30px;
     width: 5%;
+    box-shadow: 2.5px 5px rgb(82, 1, 1);
 }
 .pad-container{
     position: relative;
@@ -53,6 +57,7 @@ body{
     background-color: black;
     bottom: -80px;
     right: 5px;
+    box-shadow: 2.5px 5px rgb(46, 46, 46);
 
 }
 .bottom{
@@ -62,6 +67,7 @@ body{
     background-color: black;
     bottom: -65px;
     right: 5px;
+    box-shadow: 2.5px 5px rgb(46, 46, 46);
 }
 .left{
     position: relative;
@@ -70,6 +76,7 @@ body{
     background-color: black;
     bottom: -80px;
     right: 20px;
+    box-shadow: 2.5px 5px rgb(46, 46, 46);
 }
 
 .right{
@@ -79,6 +86,7 @@ body{
     background-color: black;
     bottom: -65px;
     left: 10px;
+    box-shadow: 1px 2.5px 0px 3px rgb(46, 46, 46);
 }
 
 .center{
